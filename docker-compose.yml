@@ -1,0 +1,8 @@
+services:
+  backend:
+    network_mode: bridge
+    build: .
+    environment:
+      - "ASPNETCORE_URLS=http://*:5000"
+    ports:
+      - "5000:5000"

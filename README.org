@@ -1,0 +1,3 @@
+* Overview
+
+This is a project that demonsrates securing a Vite + Vue 3 + Typescript SPA using ASP.NET Core. It also features hot reloading and optimized release images built using Docker.
